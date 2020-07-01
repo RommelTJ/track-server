@@ -1,3 +1,5 @@
+require('./models/User');
+
 const mongoUri = require('../env');
 const express = require('express');
 const mongoose = require('mongoose');
