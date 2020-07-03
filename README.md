@@ -1,6 +1,6 @@
 # track-server
 
-Version: 0.0.1 - 28 Jun 2020
+Version: 1.0.0 - 03 Jul 2020
 
 ## Description
 
